@@ -1,0 +1,42 @@
+.custom-header {
+    background-image:url('background_glam.jpg');
+    background-position: center center;
+    background-size: cover; 
+} 
+
+h3, p, li {text-align:center;
+    font-family: 'Quicksand', sans-serif;}
+
+h1, h2, custom-button {text-align: center;
+    font-family: 'Cinzel', sans-serif;
+}
+
+a {text-align: left; 
+}
+
+h3 {
+ margin-top: 3rem;
+ margin-bottom: 2rem;
+}
+
+.my-custom-color {background-color:#ffebed;}
+
+.my-custom-color2 {background-color:#83a393;}
+
+.my-custom-color3 {background-color:#ffd6da;}
+
+.tab-content > .active {
+    display: block;
+    background-color: #fff;
+    padding-bottom: 1rem;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+  }
+
+ .nav-link:hover {
+    color: #000;
+  }
+  
+  .nav-link { 
+      color:#fff;
+  }
